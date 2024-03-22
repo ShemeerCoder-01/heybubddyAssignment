@@ -1,0 +1,52 @@
+.homeForm .ant-form-item .ant-form-item-label > label {
+  color: #676c80;
+  font-size: 16px;
+}
+
+.homeForm .ant-input {
+  height: 50px;
+  font-size: 16px;
+}
+
+.homeForm .ant-input-number,
+.CommonForm .ant-input-number {
+  width: 100%;
+}
+
+.homeForm .ant-input-number-input,
+.CommonForm .ant-input-number-input {
+  height: 50px;
+}
+
+.CommonForm .ant-input-number {
+  width: 100%;
+}
+
+.homeForm .ant-input-number-input,
+.CommonForm .ant-input-number-input {
+  height: 50px;
+}
+
+.CommonForm .ant-form-item .ant-form-item-label > label {
+  color: #134171;
+  font-size: 14px;
+}
+
+.CommonForm .ant-input {
+  height: 30px;
+  font-size: 14px;
+  border: 1px solid #00000033;
+  border-radius: 0.5rem;
+  padding:1.5rem 1.5rem;
+}
+
+
+.CommonForm .ant-select-single, .CommonForm .ant-picker {
+  height: 50px;
+  /* border: 1px solid #cbd5e1; */
+  /* border-radius: 5px; */
+}
+
+.footer p{
+  cursor: pointer;
+}
